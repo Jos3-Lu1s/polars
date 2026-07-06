@@ -6,3 +6,4 @@ venv/
 *.gz
 *__pycache__/
 *.ipynb_checkpoints/
+*.parquet
